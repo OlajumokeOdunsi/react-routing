@@ -1,0 +1,10 @@
+
+
+.link{
+    padding: 40px;
+    font-size: 40px;
+    display: flex;
+    flex-direction: space-between;
+    margin: 0 20px;
+    gap: 10px
+}
