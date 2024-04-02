@@ -7,6 +7,7 @@
     width: 400px;
     height: 400px;
     border-radius: 5px;
+    margin-left: 60px;
 }
 
 .form-control{
@@ -17,6 +18,7 @@
     font-size: 30px;
     color: #00b4fc;
     margin-top: 40px;
+    margin-left: 20px;
 }
 
 .input{
@@ -25,10 +27,12 @@
     border: none;
     outline: none;
     border-radius: 5px;
+    margin-left: 20px;
 }
 
 .btn{
     margin-top: 20px;
     background-color: #00b4fc;
     padding: 15px;
+    margin-left: 20px;
 }
